@@ -48,16 +48,6 @@ I'm a **2nd-year Computer Science Engineering student** who enjoys building prac
 
 ![Skills](https://skillicons.dev/icons?i=git,github,vscode)
 
-## 🧩 Featured Projects
-
-| Project | Description | Technology |
-|---|---|---|
-| **🩺 Swasthya-Neeti** | AI-powered healthcare chatbot focused on making health information easier to access. | AI • Chatbot • Web |
-| **🎓 ScholarGuru** | Student-focused platform for discovering and understanding scholarship opportunities. | Web • AI |
-| **🏥 Blood Bank Management System** | C++ OOP-based system for managing donors, recipients, blood stock, requests and donation history. | C++ • OOP • File Handling |
-
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=deeppanchal13&show_icons=true&theme=radical&hide_border=true" height="170"/>
