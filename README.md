@@ -16,13 +16,6 @@
 
 <img src="assets/sec2.svg" alt="Tech Stack: C, C++, Python, JavaScript, HTML, CSS, React, Tailwind, Node.js, Express, MongoDB, Git, GitHub, VS Code" width="100%"/>
 
-<!-- 3D Contribution Graph -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dakshrajsinghrathore3-code/dakshrajsinghrathore3-code/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-
-</div>
-
 <img src="assets/sec3.svg" alt="Currently Learning: React.js, C++ and DSA, Full-Stack Development, AI-powered application development, building real-world projects" width="100%"/>
 
 <img src="assets/sec4.svg" alt="Open To: collaborating on projects, hackathons, open-source contributions, learning from developers, growth opportunities" width="100%"/>
