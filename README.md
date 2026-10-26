@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi,%20I'm%20Dakshraj%20Singh%20Rathore%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Frontend%20Developer%20%7C%20Problem%20Solver&descAlignY=55)
+<img src="assets/banner.svg" alt="Hi, I'm Dakshraj Singh Rathore" width="100%"/>
 
 <a href="https://github.com/dakshrajsinghrathore3-code">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -12,7 +12,7 @@
 
 </div>
 
-## 🚀 About Me
+<img src="assets/sec1.svg" alt="About Me" width="100%"/>
 
 ```yaml
 name: Dakshraj Singh Rathore
@@ -30,7 +30,7 @@ status: 🟢 Building projects and improving every day
 
 I'm a **2nd-year Computer Science Engineering student** who enjoys building practical projects and exploring modern technologies. I like turning ideas into useful applications and continuously improving my programming and problem-solving skills.
 
-## 🔧 Tech Stack
+<img src="assets/sec2.svg" alt="Tech Stack" width="100%"/>
 
 **Languages**
 
@@ -55,7 +55,7 @@ I'm a **2nd-year Computer Science Engineering student** who enjoys building prac
 
 </div>
 
-## 🎯 Currently Learning
+<img src="assets/sec3.svg" alt="Currently Learning" width="100%"/>
 
 - ⚛️ React.js and modern frontend development
 - 🧠 C++ and Data Structures & Algorithms
@@ -63,7 +63,7 @@ I'm a **2nd-year Computer Science Engineering student** who enjoys building prac
 - 🤖 AI-powered application development
 - 🛠️ Building better real-world projects
 
-## 💡 What I'm Open To
+<img src="assets/sec4.svg" alt="What I'm Open To" width="100%"/>
 
 - 🤝 Collaborating on interesting software projects
 - 🚀 Hackathons and technical competitions
@@ -71,7 +71,7 @@ I'm a **2nd-year Computer Science Engineering student** who enjoys building prac
 - 📚 Learning from other developers
 - 💻 Opportunities to grow as a developer
 
-## 📫 Let's Connect
+<img src="assets/sec5.svg" alt="Let's Connect" width="100%"/>
 
 I'm always interested in learning, building, and collaborating on meaningful projects.
 
@@ -85,8 +85,6 @@ I'm always interested in learning, building, and collaborating on meaningful pro
 
 <div align="center">
 
-### 💻 Learn. Build. Solve. Repeat.
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer)
+<img src="assets/footer.svg" alt="Learn. Build. Solve. Repeat." width="100%"/>
 
 </div>
