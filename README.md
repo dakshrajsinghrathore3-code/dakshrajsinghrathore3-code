@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="assets/banner.svg" alt="Hi, I'm Dakshraj Singh Rathore" width="100%"/>
+<a href="https://dakshrajsinghrathore3-code.github.io/portfolio/"><img src="assets/banner.svg" alt="Dakshraj Singh Rathore" width="100%"/></a>
 
 <a href="https://github.com/dakshrajsinghrathore3-code">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
