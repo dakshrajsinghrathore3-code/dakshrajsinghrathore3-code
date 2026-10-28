@@ -12,15 +12,15 @@
 
 </div>
 
-<img src="assets/sec1.svg" alt="About Me: Dakshraj Singh Rathore, B.Tech Computer Science Engineering Student. Focus: Full-Stack Development, C++ and DSA, AI-powered Applications. 2nd-year CSE student who enjoys building practical projects." width="100%"/>
+<img src="assets/sec1b.svg" alt="About Me: Dakshraj Singh Rathore, B.Tech Computer Science Engineering Student. Focus: Full-Stack Development, C++ and DSA, AI-powered Applications. 2nd-year CSE student who enjoys building practical projects." width="100%"/>
 
-<img src="assets/sec2.svg?v=2" alt="Tech Stack: C, C++, Python, JavaScript, HTML, CSS, React, Git, GitHub, VS Code" width="100%"/>
+<img src="assets/sec2b.svg" alt="Tech Stack: C, C++, Python, JavaScript, HTML, CSS, React, Git, GitHub, VS Code" width="100%"/>
 
-<img src="assets/sec3.svg" alt="Currently Learning: React.js, C++ and DSA, Full-Stack Development, AI-powered application development, building real-world projects" width="100%"/>
+<img src="assets/sec3b.svg" alt="Currently Learning: React.js, C++ and DSA, Full-Stack Development, AI-powered application development, building real-world projects" width="100%"/>
 
-<img src="assets/sec4.svg" alt="Open To: collaborating on projects, hackathons, open-source contributions, learning from developers, growth opportunities" width="100%"/>
+<img src="assets/sec4b.svg" alt="Open To: collaborating on projects, hackathons, open-source contributions, learning from developers, growth opportunities" width="100%"/>
 
-<img src="assets/sec5.svg" alt="Let's Connect" width="100%"/>
+<img src="assets/sec5b.svg" alt="Let's Connect" width="100%"/>
 
 <div align="center">
 
