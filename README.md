@@ -14,7 +14,7 @@
 
 <img src="assets/sec1.svg" alt="About Me: Dakshraj Singh Rathore, B.Tech Computer Science Engineering Student. Focus: Full-Stack Development, C++ and DSA, AI-powered Applications. 2nd-year CSE student who enjoys building practical projects." width="100%"/>
 
-<img src="assets/sec2.svg" alt="Tech Stack: C, C++, Python, JavaScript, HTML, CSS, React, Tailwind, Node.js, Express, MongoDB, Git, GitHub, VS Code" width="100%"/>
+<img src="assets/sec2.svg" alt="Tech Stack: C, C++, Python, JavaScript, HTML, CSS, React, Git, GitHub, VS Code" width="100%"/>
 
 <img src="assets/sec3.svg" alt="Currently Learning: React.js, C++ and DSA, Full-Stack Development, AI-powered application development, building real-world projects" width="100%"/>
 
